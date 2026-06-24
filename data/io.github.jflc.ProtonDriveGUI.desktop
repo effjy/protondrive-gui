@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Proton Drive GUI
+GenericName=Proton Drive Client
+Comment=Manage your Proton Drive files from your desktop
+Exec=protondrive-gui
+Icon=io.github.jflc.ProtonDriveGUI
+Terminal=false
+Categories=Network;FileTransfer;Utility;
+Keywords=proton;drive;cloud;files;storage;sync;
+StartupNotify=true
+StartupWMClass=io.github.jflc.ProtonDriveGUI
