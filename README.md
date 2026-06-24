@@ -1,4 +1,6 @@
-# Proton Drive GUI
+<div align="center">
+
+<a href="https://github.com/effjy/protondrive-gui/"><img src="titles/proton-drive-gui-title.svg" height="52" alt="Proton Drive GUI"></a>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-C%2B%2B17-00599C.svg?logo=cplusplus)
@@ -6,6 +8,8 @@
 ![Platform](https://img.shields.io/badge/platform-Linux-FCC624.svg?logo=linux&logoColor=black)
 ![Build](https://img.shields.io/badge/build-Makefile-A42E2B.svg?logo=gnu)
 ![Status](https://img.shields.io/badge/status-working-success.svg)
+
+</div>
 
 A native **C++ / GTK4** desktop client for [Proton Drive](https://proton.me/drive),
 the end-to-end encrypted cloud storage service. Sign in to your Proton account,
